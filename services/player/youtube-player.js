@@ -1,4 +1,4 @@
-const Player = require('./player');
+const Player = require('./player');t
 const Discord = require('discord.js');
 const fs = require('fs');
 const path = require('path');
